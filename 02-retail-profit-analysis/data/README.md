@@ -21,9 +21,3 @@
 - `sub return.csv`：`sub_category`、`total_orders`、`returned_orders`、`return_rate`。
 - `sub_category.csv`：`category`、`sub_category`、`total_sales`、`total_profit`、`profit_margin`、`total_quantity`、`total_orders`。
 - `月度季节性分析.csv`：`order_month`、`avg_sales`、`avg_profit`。
-
-- 数据来源、币种、导出时间和数据库导入范围尚未提供，结果应与[SQL 及指标说明](../sql/README.md)结合使用。
-- 月度数据由 `order_year` 与 `order_month` 共同确定月份；季节性表按自然月汇总，是跨年度月销售额和月利润的平均值，不应作为某个年度的月度明细。
-- `profit_margin`、`sales_mom_growth`、`return_rate` 的对应 SQL 已乘以 100；在 Tableau 中设置为百分比前需先核对单位，避免再次放大。
-- 子类别退货率以去重订单数为分母；同一订单可能涉及多个子类别，分组订单数不宜直接相加为整体订单数。
-- 不同文件的数据粒度不同，不要直接关联所有汇总表；月度销售与环比表若需关联，应同时使用年份和月份。

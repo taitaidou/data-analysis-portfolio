@@ -1,0 +1,27 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+credentials*.json
+service-account*.json
+*.pem
+*.key
+
+# Large/raw data: keep source instructions instead
+**/data/raw/
+*.hyper
+*.tde
+
+# Runtime and editor files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+~$*

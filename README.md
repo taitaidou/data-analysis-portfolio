@@ -6,14 +6,14 @@
 
 | 项目 | 分析主题 | 工具 | 项目说明 |
 | --- | --- | --- | --- |
-| 游戏 APP 用户活跃与留存分析 | 活跃指标、Cohort 留存、时序漏斗、用户分层 | BigQuery SQL、Tableau | [查看项目](01-game-user-analysis/README.md) |
+| 游戏 APP 用户活跃与留存分析 | 活跃指标、Cohort 留存、关键事件、用户分层 | BigQuery SQL、Tableau | [查看项目](01-game-user-analysis/README.md) |
 | 零售企业销售与利润分析 | 经营指标、品类亏损、折扣与利润、区域退货 | MySQL、Python、Tableau | [查看项目](02-retail-profit-analysis/README.md) |
 | 电商平台用户行为分析与 RFM 用户价值分层 | 行为转化、用户价值分层、运营建议 | SQL、Python、Matplotlib | [查看项目](03-ecommerce-rfm-analysis/README.md) |
 | 公共健康行为数据糖尿病风险预测 | 数据预处理、分类模型比较、交互展示 | R、Shiny | [查看项目](04-diabetes-risk-prediction/README.md) |
 
 ## 材料状态
 
-当前仓库提供项目介绍和材料组织说明。原始分析代码、数据来源、指标口径及成果截图将随项目整理补充；两个 Tableau 看板尚未完成。项目介绍依据已有简历整理，尚未通过原始数据与代码复核，因此暂不展示未经核验的具体结果数字。
+游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。其他项目代码和成果将随整理补充。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
 
 ## 文件组织
 

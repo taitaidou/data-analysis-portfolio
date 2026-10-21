@@ -11,6 +11,6 @@
 ## 数据入口
 
 - [六份查询结果及字段说明](../data/README.md)
-- [十一份 SQL 及执行、口径说明](../sql/README.md)
+- [SQL 索引及 Python 明细导出说明](../sql/README.md)
 - [项目结果与交付清单](../README.md#结果与交付)
 

@@ -13,7 +13,7 @@
 
 ## 材料状态
 
-游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 11 份 SQL、6 份查询结果、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商与建模项目材料将随整理补充。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
+游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 12 份 SQL（含明细导出）、6 份查询结果、Python 分析脚本与测试、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商与建模项目材料将随整理补充。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
 
 ## 文件组织
 

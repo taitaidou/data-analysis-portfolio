@@ -1,4 +1,3 @@
-"""区域退货订单率：以去重订单为单位，不把订单明细行数当成订单数。"""
 
 import argparse
 from pathlib import Path

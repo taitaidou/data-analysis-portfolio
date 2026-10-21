@@ -1,0 +1,36 @@
+{
+  "rows": 96892,
+  "columns": [
+    "Diabetes_012",
+    "HighBP",
+    "HighChol",
+    "HeartDisease",
+    "Stroke",
+    "Smoker",
+    "FreqSmoke",
+    "FreqEcig",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "HvyAlcoholConsump",
+    "GenHlth",
+    "MentHlth",
+    "PhysHlth",
+    "DiffWalk",
+    "Sex",
+    "Age",
+    "BMI",
+    "Education",
+    "Employment",
+    "Income",
+    "AnyHealthcare",
+    "NoDocbcCost",
+    "LastCheckup"
+  ],
+  "label_counts": {
+    "0.0": 78362,
+    "2.0": 16021,
+    "1.0": 2509
+  },
+  "source": "local CSV structural check; not uploaded"
+}

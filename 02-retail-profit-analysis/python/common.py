@@ -1,4 +1,3 @@
-"""共享数据检查；拒绝缺失/非法值，不静默填补或删除订单明细。"""
 
 from pathlib import Path
 import json

@@ -8,12 +8,12 @@
 | --- | --- | --- | --- |
 | 游戏 APP 用户活跃与留存分析 | 活跃指标、Cohort 留存、关键事件、用户分层 | BigQuery SQL、Tableau | [查看项目](01-game-user-analysis/README.md) |
 | 零售企业销售与利润分析 | 经营指标、品类亏损、折扣与利润、区域退货 | MySQL、Python、Tableau | [查看项目](02-retail-profit-analysis/README.md) |
-| 电商平台用户行为分析与 RFM 用户价值分层 | 行为转化、用户价值分层、运营建议 | SQL、Python、Matplotlib | [查看项目](03-ecommerce-rfm-analysis/README.md) |
+| 电商用户画像与价值分层（来源项目学习整理） | 用户画像、登录新近度分层、相关性探索 | Python、Pandas、Matplotlib | [查看项目](03-ecommerce-rfm-analysis/README.md) |
 | 公共健康行为数据糖尿病风险预测 | 数据预处理、分类模型比较、交互展示 | R、Shiny | [查看项目](04-diabetes-risk-prediction/README.md) |
 
 ## 材料状态
 
-游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 12 份 SQL（含明细导出）、6 份查询结果、Python 分析脚本与测试、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商与建模项目材料将随整理补充。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
+游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 12 份 SQL（含明细导出）、6 份查询结果、Python 分析脚本与测试、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商项目已导入和鲸来源材料、署名说明与9个代码单元的整理 Notebook；原始数据与独立复现结果待补。建模项目材料将随整理补充。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
 
 ## 文件组织
 

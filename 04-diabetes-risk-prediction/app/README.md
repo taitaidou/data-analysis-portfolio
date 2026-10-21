@@ -10,9 +10,6 @@ model_logistic_regression.rds
 model_naive_bayes.rds
 model_k-nearest_neighbors.rds
 ```
-
-这些模型文件当前未提供，原训练预处理对象和阈值也未导出。当前仓库不能直接从零启动有效预测服务，应先处理[部署与评估缺口](../docs/evaluation_notes.md)。
-
 准备完整工件并验证预处理一致性后，可在项目根目录运行：
 
 ```r
@@ -21,4 +18,3 @@ shiny::runApp("app")
 
 历史应用地址（来自项目 `link.txt`，本次未确认可访问）：https://myapp1234.shinyapps.io/myshiny/
 
-代码归档不等于已经部署或通过医疗有效性验证。

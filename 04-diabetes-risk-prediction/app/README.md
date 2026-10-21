@@ -16,5 +16,5 @@ model_k-nearest_neighbors.rds
 shiny::runApp("app")
 ```
 
-历史应用地址（来自项目 `link.txt`，本次未确认可访问）：https://myapp1234.shinyapps.io/myshiny/
+历史应用地址：https://myapp1234.shinyapps.io/myshiny/
 

@@ -40,7 +40,7 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [结果](source/provided_project.txt) | 原样保留正文、代码、打印输出和警告信息 |
+| [报告](source/provided_project.txt) | 流程和结果 |
 | [代码](notebooks/ecommerce_rfm_source.ipynb) | 9个代码单元 |
 | [依赖清单](notebooks/requirements.txt) | 本地准备运行环境 |
 

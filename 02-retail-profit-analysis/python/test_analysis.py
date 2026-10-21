@@ -1,4 +1,3 @@
-"""仅使用内存构造的测试订单；测试数据不是项目业务结果。"""
 
 import tempfile
 import unittest

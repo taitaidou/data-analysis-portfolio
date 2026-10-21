@@ -13,7 +13,7 @@
 
 ## 材料状态
 
-游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 12 份 SQL（含明细导出）、6 份查询结果、Python 分析脚本与测试、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商项目已导入和鲸来源材料与9个代码单元的整理 Notebook，并提供[十张结果图](03-ecommerce-rfm-analysis/figures/README.md)；原始数据与独立复现结果待补。第四个健康建模项目已提供[原始R代码、6页PPT、Shiny原型、报告指标和结果图](04-diabetes-risk-prediction/README.md)，历史指标与评估限制已注明，模型未在本次重新训练。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
+游戏项目已提供七份 SQL、八份查询汇总 CSV、两张仪表板预览截图和 Tableau Public 链接；[查看游戏可视化](01-game-user-analysis/tableau/README.md)。零售项目已提供 12 份 SQL（含明细导出）、6 份查询结果、Python 分析脚本与测试、Tableau Public 链接和看板截图；[查看零售可视化](02-retail-profit-analysis/tableau/README.md)。电商项目已导入材料与9个代码单元的整理 Notebook，并提供[十张结果图](03-ecommerce-rfm-analysis/figures/README.md)；原始数据与独立复现结果待补。第四个健康建模项目已提供[原始R代码、6页PPT、Shiny原型、报告指标和结果图](04-diabetes-risk-prediction/README.md)，历史指标与评估限制已注明，模型未在本次重新训练。现有留存和事件覆盖查询的口径边界见游戏项目的数据与 SQL 说明，业务效果尚未验证。
 
 ## 文件组织
 
